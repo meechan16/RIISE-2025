@@ -3,7 +3,7 @@ import { Clock, MapPin, User, Coffee, Presentation, Award, Users, Lightbulb, Fil
 
 const scheduleData = [
   {
-    day: "March 15, 2025",
+    day: "Sept, 2025",
     events: [
       {
         time: "09:00 – 10:00",

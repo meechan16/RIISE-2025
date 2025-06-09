@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-gradient-to-r from-green-400 to-green-600 rounded-lg flex items-center justify-center mr-3">
                 <span className="text-white font-bold text-xl">R</span>
               </div>
-              <span className="text-2xl font-bold">RIISE 2024</span>
+              <span className="text-2xl font-bold">RIISE 2025</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
               IIIT Delhi's Annual Research Expo bringing together academia, industry, and innovation.
