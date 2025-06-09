@@ -35,7 +35,7 @@ const scheduleData = [
       {
         time: "10:30 – 11:15",
         title: "Keynote Talks",
-        description: "Two inspiring keynote presentations from industry leaders",
+        description: "Inspiring keynote presentations from industry leaders",
         location: "Main Auditorium",
         type: "keynote",
         icon: User,
