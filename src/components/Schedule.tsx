@@ -40,7 +40,7 @@ const scheduleData = [
         type: "keynote",
         icon: User,
         id: "4-5",
-        speaker: "Jaswinder Chadha & Mr Anku Jain"
+        speaker: "TO BE REVEALED SOON"
       },
       {
         time: "11:15 – 11:30",
